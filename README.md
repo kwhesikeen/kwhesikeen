@@ -15,25 +15,20 @@ Current Hack The Box CPTS pathway. Focused on **Cyber Security**, **Penetration 
 Automated lead qualification system leveraging AI and API automation.
 
 - **16 API requests** verified | **64 assertions** passed | **0 failures**
+
 - Built with n8n, Docker, Postman, and OpenAI/Ollama
 
-🔗 [CedarLead Repository](https://github.com/kwhesikeen/ai-lead-qualification-automation)
+[CedarLead Repository](https://github.com/kwhesikeen/ai-lead-qualification-automation)
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| Automation | 8n, Docker, PowerShell |
-| Security Testing | Postman, API Security |
-| Development | Git/GitHub, JavaScript, JSON |
-| AI/ML | OpenAI, Ollama |
-
 ---
 
-## 📬 Connect
+## 🔗 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kwhesi-keen-921aa91aa)
-- 📧 [Email](mailto:kwhesikeen@gmail.com)
-- 🐙 [GitHub](https://github.com/kwhesikeen)
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-kwasi-atuah-921aa91aa)
+- [GitHub](https://github.com/kwhesikeen)
+- [Twitter](https://twitter.com/kwhesikeen)
+- [Portfolio](https://kwesiatuah.com/)
